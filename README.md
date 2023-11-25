@@ -2,11 +2,11 @@
 > [!NOTE]
 > You'll need an ASI loader and OpenIV.asi, both can be installed in OpenIV.
 1. Download the [latest release]()
-1. Open OpenIV and enable Edit mode
-1. Drag the .oiv file to OpenIV
-1. Hit Install
-1. To "mods" folder
-1. Horray
+2. Open OpenIV and enable Edit mode
+3. Drag the .oiv file to OpenIV
+4. Hit Install
+5. To "mods" folder
+6. Horray
 
 # Add-ons:
 * [PlayStation 3 Buttons]()
